@@ -1,6 +1,6 @@
 ---
-title: Apple Silicon 에서 Jekyll 사용하기 - github pages 를 목적으로
-description: ""
+title: Apple Silicon 에서 Jekyll 사용하기
+description: "GitHub Pages 를 사용하기 위해 MacOS 설정하기"
 date: 2025-03-11T13:37:38.334Z
 preview: ""
 tags: [setup, jekyll, MacOS, Apple Silicon]
